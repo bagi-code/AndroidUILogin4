@@ -1,0 +1,37 @@
+/ *
+Design by Bagicode
+Author: bagicode
+Author URL: http://bagicode.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+* /
+----------------------------------
+NOTE: QUESTIONS are often ASKED
+----------------------------------
+
+1. What is Bagicode?
+Bagicode is where to share coding and is an AgileIT initiative to provide free Android designs supported by cross devices.
+
+2. Is the Bagicode Templates Really Free?
+No, there are two versions: paid and free. For Paid You are free to use it and for free version you are required to provide back links to bagicode.com.
+
+3. I want to Help Bagicode, How can I?
+You can help Bagicode with
+1. Donate some $ ', every amount of your wish
+2. Contributions Design inventory such as stock photos, Icon or PSD design with full rights to bagicode
+
+4. I want to remove backlinks to bagicode.com?
+We have two plans for it per template and unlimited.
+Donate us $ 10 per template. If you want a request template for your android app, please contact bagicode@gmail.com
+
+5. What is the Android Template?
+Android template is a responsive design that can be used for android users.
+
+6. Do I need a separate version for Smartphones and Tablets?
+No, Template Design is compatible on all Android.
+
+7. Do I need a database?
+No, that's not necessary.
+
+8. Under which license do you provide this template?
+Bagicode templates are under Creative Commons Attribution 3.0 unported
